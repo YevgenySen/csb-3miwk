@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yevgenysen.github.io/csb-3miwk/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://yevgenysen.github.io/csb-3miwk/static/js/main.302de3ab.chunk.js",
+    "main.js.map": "https://yevgenysen.github.io/csb-3miwk/static/js/main.302de3ab.chunk.js.map",
+    "runtime-main.js": "https://yevgenysen.github.io/csb-3miwk/static/js/runtime-main.bda7fd8f.js",
+    "runtime-main.js.map": "https://yevgenysen.github.io/csb-3miwk/static/js/runtime-main.bda7fd8f.js.map",
+    "static/js/2.afd9b8ba.chunk.js": "https://yevgenysen.github.io/csb-3miwk/static/js/2.afd9b8ba.chunk.js",
+    "static/js/2.afd9b8ba.chunk.js.map": "https://yevgenysen.github.io/csb-3miwk/static/js/2.afd9b8ba.chunk.js.map",
+    "index.html": "https://yevgenysen.github.io/csb-3miwk/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://yevgenysen.github.io/csb-3miwk/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.afd9b8ba.chunk.js.LICENSE.txt": "https://yevgenysen.github.io/csb-3miwk/static/js/2.afd9b8ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bda7fd8f.js",
+    "static/js/2.afd9b8ba.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.302de3ab.chunk.js"
+  ]
+}
